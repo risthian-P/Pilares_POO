@@ -31,3 +31,5 @@ Polimorfismo
 El polimorfismo mejora la flexibilidad y extensibilidad del código al permitir cambios en la implementación sin afectar 
 el código que lo utiliza. Permite tratar objetos de diferentes clases de manera uniforme a través de una clase base 
 común. Esto se logra mediante la herencia y la implementación de métodos con el mismo nombre en clases diferentes.
+
+![img.png](img.png)
